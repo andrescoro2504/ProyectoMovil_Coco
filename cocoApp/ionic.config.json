@@ -1,5 +1,7 @@
 {
   "name": "cocoApp",
-  "integrations": {},
-  "type": "ionic-angular"
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
 }
